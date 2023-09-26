@@ -36,6 +36,5 @@ public class Section5x44 {
             finalScore += (levelCompleted * bonus);
             System.out.println("Your final score was " + finalScore);
         }
-
     }
 }
