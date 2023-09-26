@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        int int = 5;
+        double kilometers = (100 * 1.609344);
     }
 }
