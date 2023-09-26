@@ -7,5 +7,11 @@ public class Main {
             highScore = 1000 + highScore;       // add bonus points
         }
 
+        int health = 100;
+
+        if((health < 25) && (highScore > 1000)) {
+            highScore = highScore - 1000;
+        }
+
     }
 }
